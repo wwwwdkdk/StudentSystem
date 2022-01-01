@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>StudentInformation</class>
+ <widget class="QWidget" name="StudentInformation">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>750</width>
+    <height>525</height>
+   </rect>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>750</width>
+    <height>525</height>
+   </size>
+  </property>
+  <property name="sizeIncrement">
+   <size>
+    <width>750</width>
+    <height>525</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>学生信息窗口</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="widget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>245</y>
+     <width>134</width>
+     <height>271</height>
+    </rect>
+   </property>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>6</x>
+      <y>191</y>
+      <width>121</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>返回主页面</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>6</x>
+      <y>73</y>
+      <width>122</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>修改学生信息</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_4">
+    <property name="geometry">
+     <rect>
+      <x>6</x>
+      <y>14</y>
+      <width>122</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>添加学生信息</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_5">
+    <property name="geometry">
+     <rect>
+      <x>6</x>
+      <y>132</y>
+      <width>122</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>删除学生信息</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>5</x>
+     <y>101</y>
+     <width>611</width>
+     <height>411</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>50</y>
+     <width>311</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
