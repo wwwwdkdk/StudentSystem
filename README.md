@@ -9,10 +9,10 @@
 
 运行截图：
 
-![v2-b60b9374be39cb2014b443279e408da3_1440w](https://user-images.githubusercontent.com/63393116/147850458-652cb379-522a-4622-8b21-ae938f4cc2c8.png)
 
+<img width="862" alt="img" src="https://user-images.githubusercontent.com/63393116/147850458-652cb379-522a-4622-8b21-ae938f4cc2c8.png">
 
-<img width="862" alt="截屏2022-01-01 下午8 26 40" src="https://user-images.githubusercontent.com/63393116/147850533-76e63cc6-d73a-46d0-bc44-8c5898fd106a.png">
+<img width="862" alt="image" src="https://user-images.githubusercontent.com/63393116/147850533-76e63cc6-d73a-46d0-bc44-8c5898fd106a.png">
 
 
 详情可见：https://zhuanlan.zhihu.com/p/452401413
