@@ -87,7 +87,6 @@ void Update_Information::update(StudentList *S) {
         }
         StudentList *p = S->next;
         while (p != nullptr) {
-            qDebug()<<p->Id;
             if (p->Id == Id) {
                 p->Id = id;
                 p->Name = Name;
